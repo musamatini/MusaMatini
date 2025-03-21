@@ -2,7 +2,7 @@
 I’m a 2008-born high school student living in Istanbul, passionate about software. I’ve been into coding since I was a kid and have been constantly improving myself in this field. I’ve gained solid experience in web development and Python, and I’ve also worked on small projects using C, C++, and Kotlin. I’m pretty comfortable with Linux and the terminal. I’m not working as a developer yet, but I’m actively leveling up my skills. I consider myself a quick learner, but I’m fully aware there’s still a lot to learn. I’m fluent in Arabic, Turkish, and English. You can check out my certificates and projects below. If you’d like to get in touch, don’t hesitate to reach out!<br><br>You can check out my projects and more at my website: https://musa.matini.link
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/748620553530769440)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/musa_matini)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/musamatini)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/MusaAhmadMatini)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:MusaMat00@gmail.com)
 
 # 💻 Tech I Played With:
